@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-d=_6d(#m5o7*=bfgxr87v7pm$g4ljar81(sa!2efcn9fzc$snf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://hiwetbakery2.onrender.com"]
+ALLOWED_HOSTS = ["*"]
 
 STATIC_URL = '/static/'
 
